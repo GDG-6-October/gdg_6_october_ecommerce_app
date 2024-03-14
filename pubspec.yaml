@@ -1,0 +1,34 @@
+name: gdg_6_october_ecommerce_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  firebase_auth: ^4.17.9
+  firebase_core: ^2.27.1
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+
+  # ? dart pub run flutter_launcher_icons
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/GDG.jpeg"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/

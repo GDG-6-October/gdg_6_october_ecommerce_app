@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037677506702",
+    "project_id": "gdg-6-october-ecommerce-app",
+    "storage_bucket": "gdg-6-october-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037677506702:android:8335990b6b6e79381f19df",
+        "android_client_info": {
+          "package_name": "com.example.gdg_6_october_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqL8mw62B3zLcvcfuS4GxMJ08lyvhgnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
