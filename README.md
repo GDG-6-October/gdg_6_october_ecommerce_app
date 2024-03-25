@@ -1,5 +1,3 @@
-# gdg_6_october_ecommerce_app
-
 * A project will be implemented by GDG 6 October Team. 
 * The project's main idea will be a Flutter quiz to test community knowledge in Flutter Framework.
 * Integrating Gemini Api to allow the user to chat with the model in the app.
