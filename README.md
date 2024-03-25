@@ -1,3 +1,6 @@
 # gdg_6_october_ecommerce_app
 
-A new Flutter project.
+A project will be implemented by GDG 6 October Team 
+
+
+
