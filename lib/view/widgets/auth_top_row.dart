@@ -4,9 +4,7 @@ import 'package:gdg_6_october_ecommerce_app/app/extensions/context.dart';
 import 'package:gdg_6_october_ecommerce_app/app/extensions/double.dart';
 
 class AuthTopRow extends StatelessWidget {
-  const AuthTopRow({
-    super.key,
-  });
+  const AuthTopRow({super.key});
 
   @override
   Widget build(BuildContext context) {
